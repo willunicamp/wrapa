@@ -2,8 +2,11 @@
   <content>
 # Project WRAPA
 Created by William R. Paiva
+
 School of Technology
+
 University of Campinas
+
 ## Description
 This directory has important files related to the PhD. project untitled "Software Error Propagation Analysis using Complex Networks and Fault Injection", developed at School of Technology from the University of Campinas.
 ## Files Description
