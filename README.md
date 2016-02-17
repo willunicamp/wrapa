@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[
-# ${1:Project WRAPA}
+  <content>
+# Project WRAPA
 Created by William R. Paiva
 School of Technology
 University of Campinas
